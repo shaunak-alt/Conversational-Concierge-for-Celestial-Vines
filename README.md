@@ -137,9 +137,3 @@ Your web browser will automatically open to the chat interface.
 * **Stateful Conversations**: Implement memory to recall previous parts of the conversation.
 * **LangGraph Implementation**: Rebuild the agent logic using LangGraph for more complex, cyclical reasoning paths.
 * **UI Enhancements**: Add features like example questions and chat history management.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
